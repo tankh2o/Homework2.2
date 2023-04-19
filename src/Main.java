@@ -23,6 +23,8 @@ public class Main {
         Ravenclaw.comparisonOfStudentsRavenclaw(padmaPatil, marcusBelby);
         Slytherin.comparisonOfStudentsSlytherin(grahamMontague, gregoryGoyle);
 
+        System.out.println("");
+
         Hogwarts.comparisonOfStudentsMagicalAbilities(justinFinchFletchley, marcusBelby);
         Hogwarts.comparisonOfStudentsMagicalAbilities(harryPotter, dracoMalfoy);
         Hogwarts.comparisonOfStudentsMagicalAbilities(hermioneGranger, ronWeasley);
